@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @trans-Gaines, twitter is @trans_gaines 
+- 👋 Hi, I’m @trans-Gaines
 - 👀 I’m interested in gender affirming surgery, reconstructive urology, and patient-reported outcome measures
 - 🌱 I’m currently learning introductory R! Soon, medicine. 
 - 💞️ I’m looking to collaborate on academic publications in surgical outcomes and transgender health
